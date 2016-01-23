@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linux to OS X
+permalink: switching-to-osx
 ---
 
 I used Linux as my main dev machine for quite a while.  Sure I wasn't working on the greatest hardware out there but I was getting work done and making money.

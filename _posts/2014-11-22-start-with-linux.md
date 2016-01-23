@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You Won't Regret Starting on Linux
+permalink: starting-with-linux
 ---
 
 When I first started to learn about programming my main computer was a 15" Macbook Pro. It was great. Big screen, nice hardware, and being a *nix OS, it was easy to get a development environment set up. But for me programming started out as a hobby, so I would just spend a few nights a week tinkering around with things.  The problem however was that at the time my wife and I were living in Taiwan and being without a television, that MBP was our only entertainment system.  I needed another computer.  At this point however I wasn't sure I wanted to shell out a bunch of money on a hobby that I might not stick with. Well, not long after, my wife's generous father was getting a new computer and he offered me his old Sony Viao. I quickly deleted Windows and put the latest Ubuntu LTS on it.

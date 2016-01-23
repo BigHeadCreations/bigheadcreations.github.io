@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Safety Net with Git Stash
+permalink: git-stash-safety-net
 ---
 
 Git is great. If you're not using it yet, you should start now. Even if you're not working with other developers git is awesome for showing your progress and helping you revert back to a previous point if that need should ever arise. 
