@@ -12,4 +12,4 @@ When I first started to learn about programming my main computer was a 15" Macbo
 
 * It will teach you about the command line and more about computers in general than if you just use a Mac or Windows machine. (I remember the first time I had to boot into the command line and use `vi` to fix some configuration I messed up that caused the GUI environment not to boot was really exciting - although of course this would not have even happened if I would have been on a Mac/Windows machine - but it was a great learning experience)
 
-So my advice to you if you are just starting out: give Linux a shot. You will learn a lot. And whether you will continue to use it  as you main dev machine or not is up to you, but I'm pretty sure you won't regret you tried it.
+So my advice to you if you are just starting out: give Linux a shot. You will learn a lot. And whether you will continue to use it  as your main dev machine or not is up to you, but I'm pretty sure you won't regret you tried it.
